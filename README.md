@@ -1,6 +1,5 @@
 # 修正済みProject
 CGC抽選に落ちたのでUnityでゲームを作るレポジトリ
-[参考ゲーム](https://unityroom.com/games/syuusei_finish_syuusei_finish)
 
 ## gitでのルール
 
