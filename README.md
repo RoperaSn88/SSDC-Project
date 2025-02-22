@@ -1,4 +1,4 @@
-# 修正済みProject
+# CGC-Project
 CGC抽選に落ちたのでUnityでゲームを作るレポジトリ
 
 ## gitでのルール
