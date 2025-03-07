@@ -1,4 +1,4 @@
-# CGC-Project
+# SSDC-Project
 Unityでゲームを作るレポジトリ
 
 ## gitでのルール
