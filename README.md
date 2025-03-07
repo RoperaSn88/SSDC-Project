@@ -1,5 +1,5 @@
 # CGC-Project
-CGC抽選に落ちたのでUnityでゲームを作るレポジトリ
+Unityでゲームを作るレポジトリ
 
 ## gitでのルール
 
