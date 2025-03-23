@@ -1,6 +1,5 @@
-# 修正済みProject
-CGC抽選に落ちたのでUnityでゲームを作るレポジトリ
-[参考ゲーム](https://unityroom.com/games/syuusei_finish_syuusei_finish)
+# SSDC-Project
+Unityでゲームを作るレポジトリ
 
 ## gitでのルール
 
@@ -12,4 +11,13 @@ CGC抽選に落ちたのでUnityでゲームを作るレポジトリ
 ・マージする際はdiscordのプログラム内の相談にて確認をとること
 
 ## 完成目標
-大宮祭(5/18)
+~~大宮祭(5/18)~~
+
+東京ゲームダンジョン(2025冬？)
+
+## 自由記入欄
+ここで文字を打って「commit change」を実行して反映されるか確かめてください。
+これ以降の行は自由に記入していいものとします。
+
+takoko test
+るるたぁ　test
